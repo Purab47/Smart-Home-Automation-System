@@ -1,6 +1,6 @@
 # Home-Automation-using-RaspberryPi-IOT
 
-![alt text](https://github.com/amalpoulose/Home-Automation-using-RaspberryPi-IOT/blob/master/smart-home.jpg)
+![alt text](https://github.com/Purab47/Smart-Home-Automation-System/blob/main/smart-home.png)
 
 # Introduction
 
